@@ -1,6 +1,6 @@
 # Daily-to-Hourly Temperature Downscaling (ERA5-trained RF Residual Model) + LOCA2 Batch Inference
 
-This repository contains a reproducible pipeline for **daily-to-hourly temperature downscaling** over North America using a **Random Forest (RF) residual model** trained on **ERA5** and applied to **LOCA2/CESM2-LENS2-derived daily max/min** inputs. The workflow is designed for **HPC/Slurm** execution and produces per-county trained models, evaluation logs, and hourly predictions.
+This repository contains a reproducible pipeline for **daily-to-hourly temperature downscaling** over North America using a **Random Forest (RF) residual model** trained on **ERA5** and applied to **LOCA2-derived daily max/min** inputs. The workflow is designed for **HPC/Slurm** execution and produces per-county trained models, evaluation logs, and hourly predictions.
 
 ## Key idea
 
