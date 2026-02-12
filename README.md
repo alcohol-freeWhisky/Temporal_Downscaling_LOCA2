@@ -19,7 +19,7 @@ we generate hourly temperature by:
 
 ---
 
-## Repository structure (example)
+## Repository structure
 
 - `code/`
   - `era5_temp_tocsv.py`  
